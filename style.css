@@ -1,0 +1,37 @@
+a:hover{
+   color: aqua;
+}
+
+.card:hover{
+   background-color: rgb(56, 56, 56);
+   color: white;
+   
+   transition: 300ms;
+  padding: 10px;
+
+}
+.social-links a{
+   display: inline-block;
+   height: 40px;
+   width: 40px;
+   background-color: rgba(255,255, 255, 0.2);
+   margin: 0 10px 10px 0;
+   text-align: center;
+   line-height: 40px;
+   border-radius: 50%;
+   color: #ffffff;
+   transition: all 0.5s ease;
+}
+.social-links a:hover{
+   color: #24262b;
+   background-color: #ffffff;
+}
+.font{
+   font-family: cursive;
+}
+.nav-link:hover{
+   color: black;
+}
+.eye{
+   position: absolute;
+}
